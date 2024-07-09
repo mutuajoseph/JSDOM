@@ -1,0 +1,7 @@
+Todos Application
+
+1. View a list of todos : GET todos
+2. View more details about a todo item : GET todos:id
+3. Update an existing todo item 
+4. Delete an existing todo item
+5. Create/Add a new Todo item
